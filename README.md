@@ -1,2 +1,2 @@
 # Searchy
-Currently a search engine that isn't web-based for simplicity of testing.
+a search engine project that isn't currently web-based and was learned from udacity.com
